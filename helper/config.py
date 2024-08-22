@@ -1,0 +1,5 @@
+web_url = "https://www.saucedemo.com/"
+valid_username = "standard_user"
+valid_password = "secret_sauce"
+invalid_password = "secret_sauces"
+locked_user = "locked_out_user"
